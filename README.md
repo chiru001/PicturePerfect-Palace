@@ -18,6 +18,4 @@ This is a simple project showcasing a CSS layout.
 
 - [Font Awesome](https://fontawesome.com/)
 
-## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
